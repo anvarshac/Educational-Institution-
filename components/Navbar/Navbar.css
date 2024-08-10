@@ -1,0 +1,383 @@
+.navbar{
+    width: 100%;
+    display: flex;
+    
+    justify-content: space-between;
+    background: rgb(234, 251, 84);
+
+}
+.logo{
+    width: 120px;
+    cursor: pointer;
+margin: 10px 10px;
+
+}
+
+.academy{
+ margin: 40px 1px;
+ margin-left: -100px;
+}
+ul{
+    list-style: none;
+    justify-content: space-between;
+    display: flex;
+    width: 600px;
+    color: rgb(7, 3, 112);
+    margin: 50px 40px;
+   
+}
+.search-box{
+    margin: 50px ;
+   
+
+}
+
+.main{
+    width: 100%;
+    height: 400px;
+       background: url('https://wallpapercave.com/wp/wp1838758.jpg') center  ;
+               background-repeat: no-repeat;
+              background-size: cover;
+              image-resolution: 300dpi;
+            
+             
+}
+.main-text{
+    padding: 60px;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 140;
+    color: rgb(4, 2, 20);
+   
+}
+.para-main{
+    font-size: 20px;
+    width: 50%;
+    color: rgb(208, 26, 232);
+    font-style: unset;
+   
+}
+.button{
+    box-sizing: border-box;
+   width: 110px;
+   height: 30px;
+    border-radius:5px ;
+    color: #030b13;
+    padding: 2px;
+    background-color: rgb(8, 226, 226);
+    box-shadow: #030b13;
+}
+
+.course-header{
+    margin-left: 500px;
+    margin-top: 200px;
+    font-size: 30px;
+   text-decoration: underline;
+   
+
+}
+.box-part{
+    display:flex;
+    justify-content: space-between;
+    height: 350px;
+    margin-top: 50px;
+}
+
+.business-box{
+    border: 3px solid red;
+    border-radius: 30px;
+  
+}
+.bag{
+    width: 50px;
+        margin: 25px 100px;
+}
+.business{
+       font-size: 20px;
+       text-align: center;
+       color: rgb(70, 64, 2);
+}
+.business-para{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 10px;
+}
+.maths-box{
+    border: 3px solid red;
+    border-radius: 30px;
+}
+.maths-icon{
+    width: 90px;
+        margin: 5px 90px;
+}
+.maths{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(118, 7, 94);
+    
+    }
+    .maths-para{
+        font-size: 15px;
+               text-align: center;
+               margin-top: 10px;
+    }
+.science-box{
+    border: 3px solid red;
+    border-radius: 30px;
+   
+}
+.science-icon{
+    width: 50px;
+    margin: 20px 100px;
+    margin-left: 110px;
+}
+.science{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(10, 128, 212);
+}
+.science-para{
+    font-size: 15px;
+    text-align: center;
+    margin-top: 10px;
+}
+.tech-box{
+    border: 3px solid red;
+    border-radius: 30px;
+}
+.tech-icon{
+    width: 110px;
+    margin: 8px 80px;
+}
+.tech{
+    font-size: 20px;
+    text-align: center;
+    color: #052b52;
+   
+}
+.tech-para{
+    font-size: 15px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.eco-box{
+    border: 3px solid red;
+   border-radius: 30px;
+  
+}
+.eco-icon{
+    width: 100px;
+    margin: 3px 80px;
+  
+}
+.eco{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(4, 79, 6);
+  
+    
+}
+.eco-para{
+   text-align: center;
+    margin-top: 10px;
+    font-size: 15px;
+}
+.join-but{
+    width: 80px;
+    height: 30px;
+    margin: 20px 90px;
+    color: rgb(242, 221, 30);
+    background-color: rgb(7, 33, 72);
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.build{
+    margin-top: 120px;
+}
+
+.build-p{
+    
+    margin-left: 720px;
+   
+       
+       font-size: 18px;
+       padding-top: 100px;
+     
+}
+.build-img{
+    width: 700px;
+    float: inline-start;
+    margin: 40px;
+    border-radius: 20px;
+  
+}
+.build-inner-p{
+   padding-top: 220px;
+   font-size: 18px;
+  
+}
+.build-inner-img{
+    float: inline-end;
+    width: 700px;
+    margin: 40px;
+    border-radius: 20px;
+    margin-top: 80px;
+
+}
+.build-class-img{
+    float: inline-start;
+    width: 700px;
+    margin: 40px;
+    border-radius: 20px;
+    margin-top: 80px;
+}
+.build-class-p{
+    padding-top: 350px;
+    font-size: 18px;
+}
+
+.welcome-h{
+    font-size: 30px;
+    margin-top: 200px;
+    color: #900674;
+}
+
+.welcome-p{
+    padding-top: 200px;
+    font-size: 18px;
+}
+
+.welcome-img{
+    float: inline-end;
+    width: 700px;
+    margin: 40px;
+    border-radius: 20px;
+    margin-top: 80px;
+
+}
+
+.footer{
+    background-color: rgb(5, 86, 46);
+    margin-top: 20px;
+    
+}
+.f-h{
+    display: flex;
+   padding-top: 20px;
+    margin-top: 300px;
+    margin-left: 50px;
+    justify-content: space-between;
+    font-size: 10px;
+   
+    
+}
+.fu{
+    margin-right: 30px;
+}
+.fh-con{
+        display: flex;
+        justify-content: space-between;
+}
+.fb{
+    width: 40px;
+}
+.insta{
+    width: 70px;
+}
+.in{
+    width: 40px;
+}
+
+
+.fh-loc-con{
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+.fh-ph-con{
+    margin-left: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+.fh-fu-con{
+    margin-right: 20px;
+   
+    margin-top: 10px;
+}
+.fh-academy{
+    text-align: center;
+    margin-top: 150px;
+}
+.ideas-h{
+    margin-top: 300px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    color: rgb(9, 65, 234);
+}
+.ideas-boxpart{
+    display: flex;
+   justify-content:space-between ;
+  margin: 30px;
+}
+.speech-img{
+    width: 400px;
+   padding-right: 1.5px;
+   
+}
+.interact-img{
+    width: 400px;
+    padding-right: 1.5px;
+}
+.nature-img{
+    width: 400px;
+    padding-right: 1.5px;
+}
+
+.speechpart{
+    border: #030b13 1px solid;
+    width: 400px;
+}
+.speech-h{
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    color: rgb(117, 13, 110);
+}
+.speech-p{
+    font: 5px ;
+     padding: 20px;
+}
+.interactpart{
+    border: #030b13 1px solid;
+    width: 400px;
+
+}
+.interact-h{
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    color: rgb(117, 13, 110);
+}
+.interact-p{
+    font: 5px ;
+       padding: 20px;
+}
+.naturepart{
+    border: #030b13 1px solid;
+    width: 400px;
+}
+.nature-h{
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    color: rgb(117, 13, 110);
+}
+.nature-p{
+    font: 5px ;
+    padding: 20px;
+}
